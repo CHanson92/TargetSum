@@ -4,7 +4,7 @@ The idea behind this mini project was to design a simple game where you were giv
 
 ## Built With
 
-* [ReactNative]
+* React Native
 
 ## Changelog
 
@@ -14,6 +14,12 @@ The idea behind this mini project was to design a simple game where you were giv
 
 * Further styling.
 * A known issue on Android where the button appears as a white square, will be fixed soon.
+
+## Instructions
+
+To start project on a iOS simulator run: react-native run-ios
+
+https://facebook.github.io/react-native/docs/getting-started
 
 ## Authors
 
